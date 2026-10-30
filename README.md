@@ -95,9 +95,9 @@ Mi experiencia abarca desde la optimización de bases de datos relacionales masi
 
 ## 📬 Contacto y Redes
 
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/sergio-martinez-5a72488b)
-* **GitHub:** [github.com/tu-usuario](https://github.com/sergiogenaromartinez/sergiogenaromartinez.git)
-* **Correo Electrónico:** [tu.correo@email.com](mailto:sergiogenaromartinez@gmail.com)
+* **LinkedIn:** [linkedin.com/in/sergiomartinez](https://www.linkedin.com/in/sergio-martinez-5a72488b)
+* **GitHub:** [github.com/sergiogenaromartinez](https://github.com/sergiogenaromartinez/sergiogenaromartinez.git)
+* **Correo Electrónico:** [Sergio Martinez](mailto:sergiogenaromartinez@gmail.com)
 
 ---
 *Desarrollado con enfoque en calidad, escalabilidad y arquitecturas robustas.*
